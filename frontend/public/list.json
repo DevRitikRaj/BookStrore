@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "book1",
+        "title": "This is a book that contains a book that contains ",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+
+    },
+
+    {
+        "id": 2,
+        "name": "book23",
+        "title": "This is a book that contains a book that contains a book ",
+        "price": 0,
+        "category": "paid",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+
+    },
+    {
+        "id": 3,
+        "name": "book3",
+        "title": "This is a book that contains a book that contains a book ",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+
+    },
+    {
+        "id": 4,
+        "name": "book4",
+        "title": "This is a book that contains a book that contains a book ",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+
+    },
+    {
+        "id": 5,
+        "name": "book5",
+        "title": "This is a book that contains a book that contains a book ",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+
+    },
+    {
+        "id": 6,
+        "name": "book6",
+        "title": "This is a book that contains a book that contains a book ",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+
+    }
+]
